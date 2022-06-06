@@ -37,7 +37,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/Vinnissaum/react-todolist
 # Access
-$ cd todo-list
+$ cd react-todolist
 # Install dependencies
 $ yarn
 # Run the project
